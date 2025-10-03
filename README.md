@@ -59,9 +59,3 @@ Verification is done by analyzing the internal state of the processor during sim
 2.  Check the **Program Counter (PC)** flow and the final contents of the **Register File** to ensure all instructions, branches, and memory operations completed correctly.
 
 ***
-
-
-
-## License
-
-This project is intended for educational and academic purposes. Please follow your institution's guidelines regarding the reuse and citation of this work.
